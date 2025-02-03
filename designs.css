@@ -29,9 +29,9 @@ body {
 
 .me{
     position: absolute;
-    bottom: 55%;  /* 0% from the bottom of the container */
-    right: 47.4%;  /* 25% from the right of the container (approximate) */
-    width: 10%;  /* Adjust size as a percentage of the container width */
+    bottom: 55vh;  /* 0% from the bottom of the container */
+    right: 47.4vw;  /* 25% from the right of the container (approximate) */
+    width: 10vw;  /* Adjust size as a percentage of the container width */
     
     
 }
